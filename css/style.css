@@ -1,0 +1,33 @@
+/*Base classes*/
+.f-left {
+	float: left;
+}
+.f-right {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+
+/*Section#1*/
+.left-block,
+.right-block {
+	width: 570px;
+	background: #F2F2F2;
+}
+.text-block {
+	width: 355px;
+}
+
+/*Section#2*/
+.box-1,
+.box-2 {
+	width: 536px;
+	background-color: #F8F8F8;
+}
+.img-box {
+	margin-right: 16px;
+}
+.text-box {
+	width: 260px;
+}
